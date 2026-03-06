@@ -1,0 +1,24 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large pretrained embeddings
+glove*.txt
+*.vec
+
+# Training outputs
+outputs/
+*.npy
+*.npz
+*.pt
+*.ckpt
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
